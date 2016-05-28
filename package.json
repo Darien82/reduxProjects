@@ -1,0 +1,11 @@
+{
+  "name": "reduxstarterkit",
+  "version": "1.0.0",
+  "description": "starter package for redux projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
