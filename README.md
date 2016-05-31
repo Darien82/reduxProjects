@@ -1,6 +1,6 @@
-# reduxProjects
+# Redux Project
 
-created a reading list using Redux
+I created a reading list using Redux
 
 When you click on one of the books it will give you its personal information.
 
@@ -10,7 +10,8 @@ Run npm install in the root folder:
 
 npm install
 
-Then: 
+Then 
 
 npm start
+
 open http://localhost:8080
